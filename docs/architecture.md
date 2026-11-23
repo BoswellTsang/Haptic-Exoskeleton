@@ -7,4 +7,3 @@ The project involves battery-powered BLDC actuation and lower-voltage control el
 - Power-conversion efficiency, allowable input-voltage range, thermal limits and electrical noise.
 - A protection strategy addressing reversed battery polarity, excessive current, transient voltage and motor disabling.
 
-These are **general architectural concepts**, not a release of the team's actual internal schematic or an approved hardware design. No operational safety claim is made.
