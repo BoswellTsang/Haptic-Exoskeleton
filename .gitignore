@@ -1,0 +1,17 @@
+# KiCad temp and local
+*-backups/
+*.kicad_prl
+*.lck
+*.bak
+*.tmp
+*~
+# Private credentials / notes
+.env
+.env.*
+!.env.example
+secrets.h
+private/
+internal/
+.vscode/
+.DS_Store
+Thumbs.db
