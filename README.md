@@ -3,13 +3,13 @@
 **Status:** In progress (November 2026) · **Organization:** UBC Open Robotics  
 **Role:** Electrical team member · **Focus:** power electronics, motor control, battery systems and protection
 
-> This repository documents **my individual research and general engineering contributions** toward a wearable haptic exoskeleton. It is not the team's official design repository, and no internal team-owned schematic, PCB or private document is included here.
+> This repository documents **my individual research and general engineering contributions** toward a wearable haptic exoskeleton. It is not the team's official design repository.
 
 ## Overview
 
 As part of UBC Open Robotics, I am working on the electrical requirements for a haptic exoskeleton intended to provide force feedback during robotic teleoperation. My current focus includes battery chemistry and operating voltage, power converters for low-voltage electronics, BLDC motor drive requirements, and basic electrical safety/protection concepts.
 
-This work is in **system architecture and component-evaluation stages**. No completed fabricated or electrically validated power-system PCB is represented in this repository.
+We are currently designing the schematic for the PCB.
 
 ## Electrical topics investigated
 
@@ -39,10 +39,8 @@ This work is in **system architecture and component-evaluation stages**. No comp
 | BLDC motor / driver requirements | Initial comparison performed |
 | DC-DC regulation alternatives | Initial evaluation performed |
 | Input protection and emergency-stop concepts | Under investigation |
-| Detailed schematic and PCB | Not published / not validated here |
+| Detailed schematic and PCB | In progress |
 | Hardware fabrication and testing | No measurements documented |
-
-All example design parameters in this repository represent preliminary research, not production-approved specifications or measured performance.
 
 ## Engineering documentation
 
@@ -52,6 +50,3 @@ All example design parameters in this repository represent preliminary research,
 - [Progress log](docs/progress-log.md)
 - [Hardware publishing policy](hardware/README.md)
 
-## Attribution and publication
-
-The exoskeleton is a collaborative team effort. All unpublished team-owned technical designs, confidential documentation, and detailed system implementation files require approval before public release. Statements here describe my individual learning and contributions and do not imply sole ownership of the project.
