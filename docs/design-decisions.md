@@ -11,6 +11,3 @@ Researched three-phase inverter topology, integrated drivers versus external MOS
 
 ## Protection concepts
 Investigated fuses, reverse-polarity MOSFETs, TVS transient suppression and bus bulk capacitance. Considered the difference between stopping motor torque and disconnecting power. Investigated how regeneration may raise bus voltage, requiring more than temporary energy storage.
-
-## Status
-These comparisons document research and not finalized or validated hardware selections. Specific team design documents are not published here.
